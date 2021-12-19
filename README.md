@@ -1,6 +1,8 @@
-# NgModuleBasedApp
+# NgModuleBasedApp _ `Module Based Architecture`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+
+`This is the basic structure of an angular module based architecture application. Feel free to use it for your angular project.`
 
 ## Development server
 
@@ -25,3 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### A project of [Khandaker Akash](https://github.com/khandakerakash).
